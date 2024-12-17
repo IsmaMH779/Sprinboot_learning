@@ -1,0 +1,6 @@
+1. mvnw package
+2. java -jar target\(app-name-SNAPSHOT.jar)
+
+with Maven plugin
+
+1. mvnw spring-boot:run
